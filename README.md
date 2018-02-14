@@ -2,6 +2,8 @@
 
 Chat on Socket.io & React.
 
+![demo](/demo.gif)
+
 ## Usage
 
 ```sh
