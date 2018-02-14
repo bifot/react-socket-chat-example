@@ -1,6 +1,6 @@
 # react-socket-chat-example
 
-Chat on Socket.io & React.
+🔥 Chat on Socket.io & React in 77 lines.
 
 ![demo](/demo.gif)
 
